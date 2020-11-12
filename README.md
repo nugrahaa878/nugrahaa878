@@ -7,4 +7,4 @@ Find more about me and feel free to connect! ^-^
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/nugrahaa878)](https://t.me/nugrahaa878)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=nugrahaa878&theme=light&show_icons=true)](https://github.com/nugrahaa878/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugrahaa878&hide=TeX&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugrahaa878&hide=TeX&layout=compact&theme=light)
